@@ -1,8 +1,10 @@
 title: Neural Network Potentials
 description: TFG Física
+remote_theme: "pmarsceill/just-the-docs"
 theme: just-the-docs
 
 url: https://Sergi-Ortiz.github.io/test
 
 aux_links:
   Template Repository: https://Sergi-Ortiz.github.io/test
+
