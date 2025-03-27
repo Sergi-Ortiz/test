@@ -100,3 +100,5 @@ exclude:
   - Dockerfile
   # theme test code
   - fixtures/
+
+  color_scheme: green_light
